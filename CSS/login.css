@@ -47,3 +47,33 @@
     text-align: center;
     margin-top: -20px;
 }
+
+.login{
+    position: inherit;
+    height: 60vh;
+    width: 40vw;
+    margin-top: -467px;
+    margin-left: 600px;    
+}
+
+#email{
+    width: 50vh;
+    height: 5vh;
+    text-align: center;
+    position: relative;
+}
+
+#password{
+    width: 50vh;
+    height: 5vh;
+    text-align: center;
+    position: relative;
+    margin-top: 5px;
+}
+
+.botao-login{
+    background-color:rgba(60, 179, 113, 1); 
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
