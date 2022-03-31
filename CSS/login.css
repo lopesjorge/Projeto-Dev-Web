@@ -17,14 +17,14 @@
 .texto-bem-vindo{
      font-size: 2em;
      color: white;
-     font-family:Poppins;
+     font-family:'Poppins';
      text-align: center;
 }
 
 .texto-2{
     font-size: 1,5em;
      color: white;
-     font-family:Poppins;
+     font-family:'Poppins';
      font-weight: normal;
      text-align: center;
      margin-top: -20px;
@@ -33,7 +33,7 @@
 .texto-3{
     font-size: 1,2em;
     color: white;
-    font-family:Poppins;
+    font-family:'Poppins';
     font-weight: normal;
     text-align: center;
     margin-top: -20px;
@@ -42,7 +42,7 @@
 .texto-4{
     font-size: 1,2em;
     color: white;
-    font-family:Poppins;
+    font-family:'Poppins';
     font-weight: normal;
     text-align: center;
     margin-top: -20px;
@@ -74,7 +74,7 @@
 .botao-login{
     background-color:rgba(60, 179, 113, 1); 
     color: white;
-    font-family: Poppins;
+    font-family: 'Poppins';
     text-align: center;
     border-radius: 10px;
     width: 25vh;
@@ -85,7 +85,7 @@
 }
 
 .esquecer-senha{
-    font-family:Poppins;
+    font-family:'Poppins';
     text-align: left;
     margin-top: 5px;
 }
