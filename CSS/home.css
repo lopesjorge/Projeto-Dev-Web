@@ -28,9 +28,11 @@ li{
 }
 
 li:hover{
+text-decoration: none;
 background-color: rgba(60, 179, 113, 1);
 }
-a:link{
+a:link, a:visited{
+    box-shadow: none;
     text-decoration: none;
     color: black;
 }
