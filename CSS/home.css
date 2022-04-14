@@ -9,8 +9,28 @@ header{
 .h2-home{
     text-align: center;
     color: white;
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 1,5em;
     font-weight: normal;
     padding: 2%;
+}
+
+li{
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Poppins';
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 200px;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+
+li:hover{
+background-color: rgba(60, 179, 113, 1);
+}
+a:link{
+    text-decoration: none;
+    color: black;
 }
