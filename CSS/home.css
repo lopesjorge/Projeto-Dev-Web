@@ -1,0 +1,16 @@
+header{
+    background-color: rgba(60, 179, 113, 1);
+    height: 10%;
+    width: 100vw;
+    margin-top: -20px;
+    margin-left: -8px;
+}
+
+.h2-home{
+    text-align: center;
+    color: white;
+    font-family: Poppins;
+    font-size: 1,5em;
+    font-weight: normal;
+    padding: 2%;
+}
